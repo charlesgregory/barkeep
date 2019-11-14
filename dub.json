@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"Charles Gregory"
+	],
+	"copyright": "Copyright © 2019, Charles Gregory",
+	"description": "Fast Barcode Correction",
+	"license": "MIT",
+	"name": "barcode-correct",
+	"dependencies": {
+		"dklib":{
+			"path": "dklib"
+		},
+		"dhtslib":{
+			"path": "dhtslib"
+		}
+	}
+}

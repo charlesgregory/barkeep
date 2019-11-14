@@ -1,0 +1,6 @@
+[submodule "dklib"]
+	path = dklib
+	url = git@github.com:charlesgregory/dklib.git
+[submodule "dhtslib"]
+	path = dhtslib
+	url = git@github.com:blachlylab/dhtslib.git
