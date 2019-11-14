@@ -115,4 +115,5 @@ void main(string[] args)
 		rec[barcodetag]=match;
 		bamw.write(&rec);
 	}
+	bamw.close;
 }
