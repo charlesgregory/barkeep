@@ -5,7 +5,7 @@
 	"copyright": "Copyright © 2019, Charles Gregory",
 	"description": "Fast Barcode Correction",
 	"license": "MIT",
-	"name": "barcode-correct",
+	"name": "barkeep",
 	"dependencies": {
 		"dklib":{
 			"path": "dklib"
